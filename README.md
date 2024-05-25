@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.PNG)
+![](/assets/images/screenshot.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-challenge-solution-v8yJfzXmYT)
+- Live Site URL: [Blog Preview](https://devknightingale.github.io/Blog-Preview-Card/)
 
 ## My process
 
